@@ -3,6 +3,9 @@ midiConnect
 
 midiConnect receives midi signals.
 
+## Platform
+windows
+
 ## Usage
 ```go
 package main
