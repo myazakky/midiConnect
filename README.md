@@ -1,7 +1,7 @@
 midiConnect
 ====
 
-midiConnect receives midi signals.
+midiConnect is a midi receiver library for Golang. 
 
 ## Platform
 windows
