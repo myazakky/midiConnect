@@ -4,7 +4,7 @@ import (
 	"syscall"
 )
 
-type MidiInPort struct { //MidiInClass
+type MidiInPort struct { 
 	CallBackFunc uintptr
 	Handle       uintptr
 	winmm        *syscall.DLL
