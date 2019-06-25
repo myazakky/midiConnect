@@ -8,7 +8,7 @@ midiConnect receives midi signals.
 package main
 
 import (
-	"building/midiConnect"
+	"github.com/nimuC/midiConnect"
 	"fmt"
 	"log"
 )
