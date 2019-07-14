@@ -47,8 +47,6 @@ func (port *MidiInPort) Stop() {
 	port.Close()
 }
 
-//usefull method
-
 func GetStatus(wMsg, params int) (int, int, int) {
 	if wMsg != 963 {
 		return -1, -1, -1
