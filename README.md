@@ -4,7 +4,7 @@ midiConnect
 midiConnect is a midi receiver library for Golang. 
 
 ## Platform
-windows
+Windows
 
 ## Usage
 ```go
